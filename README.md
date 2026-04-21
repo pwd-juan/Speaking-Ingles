@@ -14,4 +14,4 @@
 > | --- | --- |
 > | Muy Fácil | 1 persona |
 > | Fácil | 1 persona |
-> | Difícil | 1 personas |
+> | Difícil | 1/2 personas |
